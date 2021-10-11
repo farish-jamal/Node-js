@@ -1,1 +1,2 @@
-console.log('Hello World!');
+const harry = require("./second")
+console.log('Hello World!', harry);
